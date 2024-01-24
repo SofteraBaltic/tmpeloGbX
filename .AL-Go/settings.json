@@ -1,9 +1,10 @@
 {
+  "bcptTestFolders": [],
+  "testFolders": [],
   "country": "us",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "hw_",
+    "cus"
   ],
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": []
+  "appFolders": []
 }
